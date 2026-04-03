@@ -2,7 +2,7 @@
 - 👀 I’m interested in...solving real world problems with cryptic lines of code!
 - 🌱 I’m currently learning...a lot of stars to raech the universe through the galaxy!
 - 💞️ I’m looking to collaborate on ... anything that vibes with you from everything! 
-- 📫 How to reach me...Linkedin Sayantani M Banerjee!!
+- 📫 How to reach me...Linkedin G Sayantani MB!!
 - 😄 Pronouns:...she/her!
 - ⚡ Fun fact:...YOLO!!
 
