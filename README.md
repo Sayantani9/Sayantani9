@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayantani Banerjee</h1>
+<h1 align="center">Heyyy👋 I'm Sayantani!</h1>
 <h3 align="center">Founder | AI & Sustainability Innovator | Researcher | Open-Source Contributor | Public Speaker</h3>
 
 <p align="center">
