@@ -1,4 +1,4 @@
-<h1 align="center">Heyyy👋 I'm Sayantani!</h1>
+<h1 align="center">Hello World!! 👋 Coder Jessa Here!!</h1>
 <h3 align="center">Founder | AI & Sustainability Innovator | Researcher | Open-Source Contributor | Public Speaker</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a **Computer Science Engineering student** building AI-powered solutions at the intersection of **technology, sustainability, entrepreneurship, and research**.
 
@@ -21,9 +21,9 @@ Currently building **SHUDDH** — an AI-powered smart waste segregation and wast
 
 ---
 
-## 🌱 What I'm Building
+## What I'm Building
 
-### 🔥 SHUDDH — AI Waste Segregation & Waste-to-Wealth Platform
+### SHUDDH — AI Waste Segregation & Waste-to-Wealth Platform
 
 * AI-powered waste classification
 * Computer vision pipelines
