@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!! 👋 Coder Jessa Here!!</h1>
-<h3 align="center">Founder | AI & Sustainability Innovator | Researcher | Open-Source Contributor | Public Speaker| Bharatnatyam & Contemporary Dancer</h3>
+<h3 align="center">Founder | AI & Sustainability Innovator | Researcher | Open-Source Contributor | Toastmasters International| Bharatnatyam & Contemporary Dancer</h3>
 
 <p align="center">
   <a href="https://github.com/Sayantani9"><img src="https://img.shields.io/github/followers/Sayantani9?label=GitHub&style=for-the-badge"/></a>
