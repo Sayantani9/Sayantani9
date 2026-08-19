@@ -86,13 +86,30 @@ Currently building **SHUDDH** — an AI-powered smart waste segregation and wast
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayantani9&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayantani9&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sayantani9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Sayantani9&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantani9&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantani9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayantani9&theme=tokyonight"
+    width="95%"
+  />
+</p>
+
 
 ---
 
