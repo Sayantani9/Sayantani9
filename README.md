@@ -6,7 +6,8 @@
   <a href="https://www.linkedin.com/in/g-sayantani-mb-65337230b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://leetcode.com/u/the_invincible_fire/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/></a>
   <a href="https://www.instagram.com/the.invincible_fire"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:smb.workspace9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:smb.workspace9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+  <a href="mailto:sayantaniminakshibanerjee@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
