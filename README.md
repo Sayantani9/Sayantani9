@@ -5,7 +5,7 @@ Founder • AI & Sustainability Innovator • Researcher • Engineer • Open-S
 </h3>
 
 <p align="center">
-  <b>Building intelligent technology for real-world problems.</b>
+  <b>Building intelligent technology solving real world problems with my lines of code!</b>
 </p>
 
 <p align="center">
