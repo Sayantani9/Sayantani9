@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!! 👋 Coder Jessa Here!!</h1>
 
 <h3 align="center">
-Founder • AI & Sustainability Innovator • Researcher • Engineer • Open-Source Contributor • Speaker • Dancer
+Founder • AI ML & Sustainability Innovator • Researcher • Engineer • Open-Source Contributor • Speaker • Dancer
 </h3>
 
 <p align="center">
