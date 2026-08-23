@@ -19,6 +19,7 @@ Founder • AI ML & Sustainability Innovator • Researcher • Engineer • Ope
     <img src="https://img.shields.io/badge/LeetCode-the__invincible__fire-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/the.invincible_fire">
+  <a href="https://www.instagram.com/the.team.fire">
     <img src="https://img.shields.io/badge/Instagram-@the.invincible_fire-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://medium.com/@theinvinciblefire">
