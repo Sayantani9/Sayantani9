@@ -13,6 +13,7 @@ Founder • AI ML & Sustainability Innovator • Researcher • Engineer • Ope
     <img src="https://img.shields.io/badge/GitHub-Sayantani9-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/g-sayantani-mb-65337230b/">
+  <a href="[https://www.linkedin.com/in/g-sayantani-mb-65337230b/](https://www.linkedin.com/company/109236174/admin/dashboard/)">
     <img src="https://img.shields.io/badge/LinkedIn-4K%2B%20Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/the_invincible_fire/">
