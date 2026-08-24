@@ -592,6 +592,18 @@ An IoT-enabled waste processing pipeline integrating sensing, classification and
   />
 </p>
 
+### 🔥 GitHub Contribution Heatmap
+
+<p align="center">
+  <a href="https://github.com/Sayantani9">
+    <img
+      src="https://ghchart.rshah.org/409ba5/Sayantani9"
+      alt="Sayantani9 GitHub contribution heatmap"
+      width="95%"
+    />
+  </a>
+</p>
+
 ---
 
 # 🧩 LeetCode — Problem Solving
