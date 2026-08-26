@@ -5,7 +5,7 @@ Founder • AI ML & Sustainability Innovator • Researcher • Engineer • Ope
 </h3>
 
 <p align="center">
-  <b>Building intelligent technology solving real world problems with my lines of code!</b>
+  <b>Building intelligent technology solving real world problems with my lines of code, solving real world burnign problems!!! </b>
 </p>
 
 <p align="center">
