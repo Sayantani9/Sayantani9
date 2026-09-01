@@ -43,7 +43,7 @@ Founder • AI ML & Sustainability Innovator • Researcher • Engineer • Ope
 
 ---
 
-# 👩‍💻 About Me
+# 👩‍💻 About Me in My Coding World!
 
 I am a **Computer Science Engineering student, founder, researcher, builder, speaker, and open-source enthusiast** exploring the intersection of:
 
