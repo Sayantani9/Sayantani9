@@ -1,4 +1,4 @@
-<h1 align="center">Hello World Coder Jessa Here! Welcome to My Coding World of Imagination Open to your exploration!!!!</h1>
+<h1 align="center">Hello World Coder Jessa Here! Welcome to My Coding World of Imagination Open to your exploration the magic!!!!</h1>
 
 <h3 align="center">
 Founder • AI ML & Sustainability Innovator • Researcher • Engineer • Open-Source Contributor • Speaker • Dancer
