@@ -5,7 +5,7 @@ Founder • AI ML & Sustainability Innovator • Researcher • Engineer • Ope
 </h3>
 
 <p align="center">
-  <b>Building intelligent technology solving real world problems with my lines of code, solving real world burning problems!!!</b>
+  <b>Building intelligent technology solving real world problems with my lines of code, currently trying to chew the brain cells by the zokmbie named SIH still solving real world burning problems!!!</b>
 </p>
 
 <p align="center">
