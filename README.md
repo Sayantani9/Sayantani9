@@ -1,39 +1,30 @@
 <div align="center">
 
-# ⚡ `CODER SHINE`
+# ⚡ CODER SHINE
+
+### `SAYANTANI BANERJEE`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║             ██████╗ ██████╗ ██████╗ ███████╗██████╗         ║
-║            ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗        ║
-║            ██║     ██║   ██║██║  ██║█████╗  ██████╔╝        ║
-║            ██║     ██║   ██║██║  ██║██╔══╝  ██╔══██╗        ║
-║            ╚██████╗╚██████╔╝██████╔╝███████╗██║  ██║        ║
-║             ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝        ║
+║                    C O D E R   S H I N E                    ║
 ║                                                              ║
-║                    PLAYER DETECTED                           ║
+║              ─── PLAYER PROFILE DETECTED ───                ║
+║                                                              ║
+║        FOUNDER  •  ENGINEER  •  RESEARCHER                  ║
+║        BUILDER  •  SPEAKER  •  DANCER                       ║
+║                                                              ║
+║                 SYSTEM STATUS : ONLINE                      ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### `SYSTEM // CODER SHINE ONLINE`
+### `WELCOME TO MY CODING WORLD OF IMAGINATION.`
 
-**Founder • AI/ML Researcher • Engineer • Builder • Open-Source Contributor • Speaker • Dancer**
-
-> **I don't code because it's trendy.
-> I code because there are too many interesting problems left unsolved.**
-
----
-
-## 🎮 `BOOT SEQUENCE`
-
-**You found the profile.**
-
-But you haven't entered it yet.
+<br>
 
 <details>
-<summary><b>🟢 CLICK HERE TO ENTER CODER SHINE</b></summary>
+<summary><b>🎮 CLICK TO ENTER — CODER SHINE.EXE</b></summary>
 
 <br>
 
@@ -45,49 +36,90 @@ But you haven't entered it yet.
 ║  PLAYER       : SAYANTANI BANERJEE                           ║
 ║  CODENAME     : CODER SHINE                                  ║
 ║  CLASS        : FOUNDER / ENGINEER / RESEARCHER             ║
+║  SPECIALITY   : AI / ML / SYSTEMS / RESEARCH                ║
 ║  CURRENT RUN  : YZ!                                          ║
 ║                                                              ║
 ║  CURIOSITY    ████████████████████ 100%                     ║
+║  BUILD        ████████████████████ 100%                     ║
 ║  CHAOS        ███████████████████░  95%                     ║
-║  CODE         ████████████████████ 100%                     ║
-║  SLEEP        ██░░░░░░░░░░░░░░░░░  11%                     ║
+║  SLEEP        ██░░░░░░░░░░░░░░░░  11%                     ║
 ║                                                              ║
-║              WELCOME TO THE PROFILE.                         ║
+║              PROFILE INITIALIZED.                            ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 # HELLO, WORLD. I'M CODER SHINE. ⚡
 
-I'm **Sayantani Banerjee** — a Computer Science Engineering student, founder, researcher, developer, competitive programmer, open-source contributor, speaker and dancer.
+I'm **Sayantani Banerjee** — a Computer Science Engineering student, founder, researcher, engineer, competitive programmer, open-source contributor, speaker, writer and dancer.
 
-I build around:
+I work where **technology, research, entrepreneurship and creative thinking collide**.
 
-`AI` `ML` `COMPUTER VISION` `ROBOTICS` `IoT` `SUSTAINABILITY` `RESEARCH` `SOFTWARE` `ENTREPRENEURSHIP`
-
-I like taking an idea from:
+My playground:
 
 ```text
-PROBLEM
-   ↓
+ARTIFICIAL INTELLIGENCE
+MACHINE LEARNING
+COMPUTER VISION
+AGENTIC AI
+AI AGENTS
+LLM TRAINING
+ROBOTICS
+IoT
+SOFTWARE ENGINEERING
+SUSTAINABILITY
 RESEARCH
-   ↓
-"WHAT IF?"
-   ↓
-BUILD
-   ↓
-BREAK
-   ↓
-FIX
-   ↓
-BUILD AGAIN
-   ↓
-SHIP
+COMPETITIVE PROGRAMMING
+ENTREPRENEURSHIP
 ```
 
-I'm not particularly interested in building things that merely look impressive.
+I don't particularly enjoy building things just because they're technically possible.
 
-**I want them to do something.**
+I like asking:
+
+> **Can this solve something real?**
+
+Then I usually make the mistake of trying to build it.
+
+---
+
+# 🧬 MY BUILD PHILOSOPHY
+
+```text
+                         REAL PROBLEM
+                              │
+                              ▼
+                         ASK WHY?
+                              │
+                              ▼
+                           RESEARCH
+                              │
+                              ▼
+                            IDEATE
+                              │
+                              ▼
+                           DESIGN
+                              │
+                              ▼
+                            BUILD
+                              │
+                              ▼
+                            BREAK
+                              │
+                              ▼
+                            DEBUG
+                              │
+                              ▼
+                           ITERATE
+                              │
+                              ▼
+                            DEPLOY
+                              │
+                              ▼
+                            IMPACT
+```
+
+My favourite part is somewhere between **"this should work"** and **"why the hell isn't this working?"**
 
 ---
 
@@ -95,117 +127,432 @@ I'm not particularly interested in building things that merely look impressive.
 
 # `YZ!`
 
-## **WHY NOT GEN-Z?**
+## WHY NOT GEN-Z?
 
-I'm building **YZ!**, the flagship ecosystem under **Sanghamitra Ventures**.
+Currently building **YZ!**, the flagship ecosystem under **Sanghamitra Ventures**.
 
-YZ! is my experiment in connecting:
+YZ! is built around a simple question:
+
+> **Why not Gen-Z?**
+
+Why should young technical minds wait years before getting to work on meaningful problems?
+
+Why not connect:
 
 ```text
-GEN-Z
-+
-FRESH IDEAS
-+
+STUDENTS
+   +
+FRESH MINDS
+   +
 AI
-+
+   +
 RESEARCH
-+
+   +
 STARTUPS
-+
-COMPANIES
-+
-REAL PROBLEMS
-        ↓
-       YZ!
-        ↓
-REAL PROJECTS
-        ↓
-REAL PRODUCTS
+   +
+CORPORATE PROBLEMS
+   +
+PRODUCT IDEAS
 ```
 
-The philosophy:
+and turn them into:
 
-> **Why should Gen-Z wait to be invited into innovation?**
+```text
+                 YZ!
+                  │
+          ┌───────┼───────┐
+          ▼       ▼       ▼
+        IDEAS    AI      R&D
+          │       │       │
+          └───────┼───────┘
+                  ▼
+             PROTOTYPES
+                  │
+                  ▼
+               PRODUCTS
+                  │
+                  ▼
+                IMPACT
+```
 
-Build the bridge.
+### `WHAT I'M BUILDING AROUND`
 
-Give fresh minds real problems.
+`AI AGENTS`
+`AI / ML`
+`AUTOMATION`
+`PRODUCT ENGINEERING`
+`STARTUP INNOVATION`
+`RESEARCH`
+`SUSTAINABILITY`
+`YOUTH INNOVATION`
 
-Let them build.
+YZ! is my attempt to build the bridge between **fresh minds and real-world problems**.
 
 ---
 
-# 🧠 WHAT I'M OBSESSED WITH
+# 🧠 TECHNICAL CHARACTER BUILD
+
+## `LANGUAGES`
 
 ```text
+C
+C++
+Java
+Python
+JavaScript
+HTML
+CSS
+```
+
+## `DEVELOPMENT`
+
+```text
+Node.js
+React
+VS Code
+Git
+GitHub
+Power BI
+```
+
+## `INTELLIGENCE`
+
+```text
+Data Structures & Algorithms
 Artificial Intelligence
 Machine Learning
 Computer Vision
+LLM Training
 Agentic AI
 AI Agents
-LLM Training
-Robotics
-IoT
-Competitive Programming
-Applied Research
-Sustainability
-Product Engineering
-Startup Building
-Open Source
 ```
+
+My resume specifically lists **C, C++, Java, Python, JavaScript, HTML, CSS, Node, React, VS Code, GitHub, Power BI, DSA, AI, ML, LLM training, Agentic AI and AI Agents**.
 
 ---
 
-# 🏆 ACHIEVEMENT STACK
+# 🏆 ACHIEVEMENT UNLOCK TREE
+
+## `COMPETITIVE PROGRAMMING`
+
+### 🥇 ICPC 2025 — INSTITUTE RANK 1
+
+**Amritapuri Regionals**
+
+The International Collegiate Programming Contest
+South Asia Chapter
+
+**November 2025**
+
+---
+
+# 🚀 ENTREPRENEURSHIP
+
+### `IIT MADRAS INCUBATOR × FOUNDERX`
+
+**Ideas To Impact**
+
+**TOP 10 SHORTLISTED STARTUPS**
+
+Student Entrepreneurs — January 2025
+
+---
+
+### `STARTUP TN × ENTREPRENEUR'S ORGANISATION`
+
+**Global Student's Entrepreneurship Awards 2025**
+
+**TOP 80 / 300 STARTUPS FROM INDIA**
+
+Finalist — November 2025
+
+---
+
+### `EUREKA 2025 × IIT BOMBAY`
+
+**NEC FINALIST**
+
+**TOP 100 ENTREPRENEURS**
+
+Also served as:
+
+### `CHIEF OPERATING OFFICER`
+
+May — December 2025
+
+---
+
+# 🥇 COMPETITION MODE
+
+### `GENESIS 2026 — SRM`
+
+**FIRST PLACE**
+
+---
+
+### `PEC × ANNA UNIVERSITY IDEATHON`
+
+**FIRST RUNNER-UP**
+
+Out of **500+ teams**
+
+**15 February 2025**
+
+These entrepreneurship and competition achievements are listed in the resume alongside the ICPC result.
+
+---
+
+# 🌐 OPEN SOURCE MODE
+
+## `GSSoC`
+
+### 🥇 GOLD TRAILBLAZER
+
+Roles / contributions:
+
+`Campus Ambassador`
+`Open Source Project Mentor`
+`Open Source Contributor`
+
+**GirlScript Summer of Code**
+
+August — November 2025
+
+---
+
+## `COMMUNITY LEADERSHIP`
+
+Presiding over open-source coding communities involving:
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  🥇 ICPC 2025                                               │
-│     INSTITUTE RANK 1 — Amritapuri Regionals                 │
-│                                                              │
-│  🚀 FOUNDERX × IIT MADRAS                                   │
-│     TOP 10 — Ideas To Impact                                │
-│                                                              │
-│  🔥 STARTUP TN × EO                                         │
-│     TOP 80 / 300 STARTUPS                                   │
-│                                                              │
-│  ⚡ EUREKA 2025 × IIT BOMBAY                                │
-│     TOP 100 ENTREPRENEURS                                   │
-│                                                              │
-│  🥇 GENESIS 2026 — SRM                                      │
-│     FIRST PLACE                                              │
-│                                                              │
-│  🥈 PEC ANNA UNIVERSITY IDEATHON                            │
-│     FIRST RUNNER-UP — 500+ TEAMS                            │
-│                                                              │
-│  🥇 GSSoC                                                    │
-│     GOLD TRAILBLAZER                                        │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+GSSoC
+Outreachy
+GSoC
+Google Summer of Code
 ```
+
+and competitive programming communities involving:
+
+```text
+ICPC
+```
+
+**April 2025 — ongoing**
+
+---
+
+# 🎙️ SPEAKER / LEADER MODE
+
+## `TOASTMASTERS INTERNATIONAL`
+
+### VICE PRESIDENT — MEMBERSHIPS
+
+**Visionary Communication**
+
+October 2025 — March 2026
+
+---
+
+### `HONORARY PATHWAY CELEBRITY`
+
+### `TRIPLE CROWN`
+
+### `ROCKSTAR`
+
+**Toastmasters International — Visionary Communication**
+
+April 2026
+
+---
+
+### 🥉 BRONZE MEDALIST
+
+**Area A3 Competition — International Speech Contest**
+
+March 2026
+
+---
+
+### `PRESIDING GIRLS CHIEF COORDINATOR`
+
+**EDC, PEC**
+
+Also associated with:
+
+**IIT Bombay NEC**
+
+These aren't just "soft skills."
+
+I genuinely like standing in front of people and making complicated things understandable.
 
 ---
 
 # 🧪 RESEARCH MODE
 
-I build.
+## `RESEARCH IS NOT A SIDE QUEST.`
 
-Then I get curious about **why it works**.
+It's one of the main storylines.
 
-Then I turn the curiosity into research.
+---
 
-### ♻️ SHUDDH
+## ♻️ SHUDDH
 
-**Self-sustainable, self-cleaning, smart, AI-driven waste segregation & waste-to-wealth generation.**
+### **THE SELF-SUSTAINABLE, SELF-CLEANING, SMART, AI-DRIVEN WASTE SEGREGATOR AND WASTE-TO-WEALTH GENERATOR FOR A CLEAN, GREEN ZERO-WASTE FUTURE**
 
-`AI × IoT × Waste Intelligence`
+A research and engineering project combining:
+
+`AI`
+`IoT`
+`Waste Segregation`
+`Resource Recovery`
+`Automation`
+
+### `79% ACCURACY`
+
+### `SIH SEMI-FINALIST`
+
+### `PROVISIONALLY PATENTED`
+
+**MVP Stage — February 2025**
+
+Research presentation / publication activity includes the **5th International Conference RECYCLE 2025, IIT Guwahati**.
+
+---
+
+# 💃 COMPUTATIONAL DANCE RESEARCH
+
+## `SHIROBEDHAS × TEMPORAL FEATURES`
+
+### **Computational Identification and Classification of Shirobedhas using Temporal Dance Features**
+
+International Conference on:
+
+**Indian Knowledge Systems, Tradition, Culture & Technology**
+
+SSN — 2026
+
+Because apparently years of classical dance weren't enough.
+
+I had to make computers study it too.
+
+---
+
+# 🎥 GENERATIVE DANCE AI
+
+## `DANCE × GENERATIVE MODELS`
+
+### **Generative Model for Extended Dance Sequence Generation from a Video**
+
+MIND-2026
+
+Samarkhand, Uzbekistan
+
+8th International Conference on:
+
+**Machine Learning, Internet Protocols, Network Systems & Data Science**
+
+---
+
+# 🧬 RFET / SRAM RESEARCH
+
+### **Numerical Investigation of Fin Dual-Doped RFET Based SRAM Circuit under the Effect of Heavy Ion-Irradiation**
+
+International Conference on:
+
+**Multifunctional Materials & Radiation Measurements**
+
+---
+
+# 🔬 RESEARCH EXPERIENCE
+
+## `IIT MADRAS`
+
+**Department of Science & Technology / Gopal Krishna Deshpande Centre for Innovation and Entrepreneurship**
+
+STEM Research
+
+**March — April 2026**
+
+---
+
+## `SSN ENGINEERING COLLEGE`
+
+Research Intern under:
+
+**Dr. R. Srinivasan**
+**Dr. A. Karthika**
+
+Research areas:
+
+`Bharatanatyam Anthropology`
+`Image Processing`
+`Shirovedhas`
+
+**November 2025 — ongoing**
+
+---
+
+## `JOURNAL OF ENVIRONMENTAL MANAGEMENT`
+
+Served as a:
+
+### **PEER REVIEWER**
+
+Journal Impact Factor listed in resume: **8.4**
+
+---
+
+## `IIT GUWAHATI`
+
+**5th International Conference — RECYCLE 2025**
+
+Shortlisted presenter.
+
+Published abstract:
+
+**SHUDDH**
+
+---
+
+## `RESEARCH ASSISTANT`
+
+Independently reviewing:
+
+`STEM Journals`
+`Conference Research Papers`
+
+**2020 — 2025**
+
+---
+
+# 🧩 PROJECT ARCHIVE
+
+## `01` 🚗 PISTON'S AUTOPEDIA
+
+### `AUTOMOTIVE KNOWLEDGE × DISCOVERY`
+
+An interactive car encyclopedia and vehicle specification platform.
+
+**[⚡ ENTER AUTOPEDIA →](https://piston-s-autopedia.vercel.app/)**
+
+---
+
+# `02` ♻️ SMART WASTE SYSTEM / SHUDDH
+
+### `AI × IoT × WASTE INTELLIGENCE`
+
+AI-powered waste segregation and waste-to-wealth system.
+
+**79% reported accuracy**
 
 **SIH Semi-Finalist**
+
 **Provisionally Patented**
 
 ---
 
-### 💃 COMPUTATIONAL DANCE
+# `03` 🛡️ RAKSHAK
 
-**Computational Identification and Classification of Shirobedhas using**
+### `CYBER THREAT REPORTING`
+
+Real-time cyber threat reporting
