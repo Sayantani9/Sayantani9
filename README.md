@@ -1,558 +1,308 @@
-<div align="center">
+# 𝄞 SAYANTANI | THE INVINCIBLE FIRE
 
-# ⚡ CODER SHINE
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:242424,100:7B2CBF&height=200&section=header&text=THE%20INVINCIBLE%20FIRE&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Research.%20Engineer.%20Build.%20Repeat.&descAlignY=58&descSize=16" width="100%" />
+</p>
 
-### `SAYANTANI BANERJEE`
+<p align="center">
+  <a href="https://shine-sportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER%20MY%20WORLD-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/g-sayantani-mb-65337230b/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/the_invincible_fire/"><img src="https://img.shields.io/badge/LEETCODE-ENTER%20THE%20ARENA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://orcid.org/0009-0009-7861-484X"><img src="https://img.shields.io/badge/ORCID-RESEARCH%20PROFILE-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+</p>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                    C O D E R   S H I N E                    ║
-║                                                              ║
-║              ─── PLAYER PROFILE DETECTED ───                ║
-║                                                              ║
-║        FOUNDER  •  ENGINEER  •  RESEARCHER                  ║
-║        BUILDER  •  SPEAKER  •  DANCER                       ║
-║                                                              ║
-║                 SYSTEM STATUS : ONLINE                      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### `WELCOME TO MY CODING WORLD OF IMAGINATION.`
-
-<br>
-
-<details>
-<summary><b>🎮 CLICK TO ENTER — CODER SHINE.EXE</b></summary>
-
-<br>
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    ACCESS GRANTED                            ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  PLAYER       : SAYANTANI BANERJEE                           ║
-║  CODENAME     : CODER SHINE                                  ║
-║  CLASS        : FOUNDER / ENGINEER / RESEARCHER             ║
-║  SPECIALITY   : AI / ML / SYSTEMS / RESEARCH                ║
-║  CURRENT RUN  : YZ!                                          ║
-║                                                              ║
-║  CURIOSITY    ████████████████████ 100%                     ║
-║  BUILD        ████████████████████ 100%                     ║
-║  CHAOS        ███████████████████░  95%                     ║
-║  SLEEP        ██░░░░░░░░░░░░░░░░  11%                     ║
-║                                                              ║
-║              PROFILE INITIALIZED.                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-# HELLO, WORLD. I'M CODER SHINE. ⚡
-
-I'm **Sayantani Banerjee** — a Computer Science Engineering student, founder, researcher, engineer, competitive programmer, open-source contributor, speaker, writer and dancer.
-
-I work where **technology, research, entrepreneurship and creative thinking collide**.
-
-My playground:
-
-```text
-ARTIFICIAL INTELLIGENCE
-MACHINE LEARNING
-COMPUTER VISION
-AGENTIC AI
-AI AGENTS
-LLM TRAINING
-ROBOTICS
-IoT
-SOFTWARE ENGINEERING
-SUSTAINABILITY
-RESEARCH
-COMPETITIVE PROGRAMMING
-ENTREPRENEURSHIP
-```
-
-I don't particularly enjoy building things just because they're technically possible.
-
-I like asking:
-
-> **Can this solve something real?**
-
-Then I usually make the mistake of trying to build it.
+<p align="center">
+  <b>Computer Science Engineering • AI/ML • Applied Research • Sustainability • Robotics • Entrepreneurship</b>
+</p>
 
 ---
 
-# 🧬 MY BUILD PHILOSOPHY
+## ⚡ THE OPERATOR
 
-```text
-                         REAL PROBLEM
-                              │
-                              ▼
-                         ASK WHY?
-                              │
-                              ▼
-                           RESEARCH
-                              │
-                              ▼
-                            IDEATE
-                              │
-                              ▼
-                           DESIGN
-                              │
-                              ▼
-                            BUILD
-                              │
-                              ▼
-                            BREAK
-                              │
-                              ▼
-                            DEBUG
-                              │
-                              ▼
-                           ITERATE
-                              │
-                              ▼
-                            DEPLOY
-                              │
-                              ▼
-                            IMPACT
-```
+I'm Sayantani, a Computer Science Engineering student, founder, researcher and engineer interested in turning difficult real-world problems into working technological systems.
 
-My favourite part is somewhere between **"this should work"** and **"why the hell isn't this working?"**
+My work spans artificial intelligence, environmental intelligence, computer vision, robotics, IoT, software development and product building.
+
+I don't want technology to stop at a demonstration.
+
+**My operating principle:**
+
+`PROBLEM → RESEARCH → ARCHITECTURE → ENGINEERING → VALIDATION → IMPACT`
+
+- ♻️ Founder of **SHUDDH**, an AI-driven smart waste-management and resource-recovery initiative.
+- 🧠 Exploring AI/ML, computer vision, intelligent automation and data-driven systems.
+- 🔬 Interested in applied research that translates into practical engineering.
+- 🌍 Building around sustainability, environmental intelligence and circular-economy challenges.
+- 🚀 Exploring entrepreneurship, product strategy and technology-led innovation.
+- 🎤 Toastmasters leadership, public speaking and technical communication.
+- 🩰 Bharatanatyam and contemporary dance beyond the engineering world.
+
+📍 India | 💻 Building, learning and experimenting.
 
 ---
 
-# 🚨 CURRENT MAIN QUEST
+## 🏴 THE MISSION BOARD
 
-# `YZ!`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## WHY NOT GEN-Z?
+### ♻️ SHUDDH
 
-Currently building **YZ!**, the flagship ecosystem under **Sanghamitra Ventures**.
+**AI + Computer Vision + IoT + Robotics**
 
-YZ! is built around a simple question:
+An intelligent waste-management concept focused on waste classification, automated segregation and resource recovery.
 
-> **Why not Gen-Z?**
+<a href="https://shuddh-main-2.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE-SHUDDH-1F6F43?style=for-the-badge" /></a>
 
-Why should young technical minds wait years before getting to work on meaningful problems?
+</td>
+<td width="50%" valign="top">
 
-Why not connect:
+### 🌍 Environmental Intelligence
 
-```text
-STUDENTS
-   +
-FRESH MINDS
-   +
-AI
-   +
-RESEARCH
-   +
-STARTUPS
-   +
-CORPORATE PROBLEMS
-   +
-PRODUCT IDEAS
-```
+**Machine Learning + Environmental Data**
 
-and turn them into:
+Exploring satellite and environmental information for air-quality analysis, prediction and environmental monitoring.
 
-```text
-                 YZ!
-                  │
-          ┌───────┼───────┐
-          ▼       ▼       ▼
-        IDEAS    AI      R&D
-          │       │       │
-          └───────┼───────┘
-                  ▼
-             PROTOTYPES
-                  │
-                  ▼
-               PRODUCTS
-                  │
-                  ▼
-                IMPACT
-```
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### `WHAT I'M BUILDING AROUND`
+### 🔐 Cyber Threat Reporting
 
-`AI AGENTS`
-`AI / ML`
-`AUTOMATION`
-`PRODUCT ENGINEERING`
-`STARTUP INNOVATION`
-`RESEARCH`
-`SUSTAINABILITY`
-`YOUTH INNOVATION`
+**Python + Flask**
 
-YZ! is my attempt to build the bridge between **fresh minds and real-world problems**.
+A cybersecurity application concept for reporting and tracking digital threats.
 
----
+</td>
+<td width="50%" valign="top">
 
-# 🧠 TECHNICAL CHARACTER BUILD
+### 📷 Smart Attendance
 
-## `LANGUAGES`
+**Computer Vision + IoT**
 
-```text
-C
-C++
-Java
-Python
-JavaScript
-HTML
-CSS
-```
+An automation-oriented system exploring image recognition and attendance workflows.
 
-## `DEVELOPMENT`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-```text
-Node.js
-React
-VS Code
-Git
-GitHub
-Power BI
-```
+### 👗 ML Fashion Recommendation
 
-## `INTELLIGENCE`
+**Machine Learning + Personalization**
 
-```text
-Data Structures & Algorithms
-Artificial Intelligence
-Machine Learning
-Computer Vision
-LLM Training
-Agentic AI
-AI Agents
-```
+Exploring recommendation systems and personalized discovery.
 
-My resume specifically lists **C, C++, Java, Python, JavaScript, HTML, CSS, Node, React, VS Code, GitHub, Power BI, DSA, AI, ML, LLM training, Agentic AI and AI Agents**.
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Bio-Inspired Robotic Gripper
+
+**Robotics + Actuation + Embedded Systems**
+
+An engineering exploration of biological gripping mechanisms and robotic manipulation.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏆 ACHIEVEMENT UNLOCK TREE
+## 🛠️ TECHNICAL ARSENAL
 
-## `COMPETITIVE PROGRAMMING`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,react,flask,tensorflow,opencv,arduino,raspberrypi,mysql,git,github,linux,vscode&perline=9" />
+</p>
 
-### 🥇 ICPC 2025 — INSTITUTE RANK 1
+| Domain | Areas of work |
+|---|---|
+| Programming | C, C++, Python, Java, JavaScript |
+| Software Engineering | Data structures, algorithms, OOP, complexity analysis |
+| Web Development | HTML, CSS, React, Flask, REST APIs, responsive interfaces |
+| AI & Machine Learning | ML, deep learning, image classification, model evaluation |
+| Computer Vision | OpenCV, image processing, object detection |
+| IoT & Embedded Systems | Arduino, Raspberry Pi, sensors, actuators, embedded C/C++ |
+| Robotics | Sensing, perception, control, actuation, automation |
+| Data & Research | Data preprocessing, environmental data, experimental validation |
+| Tools | Git, GitHub, Linux, VS Code |
 
-**Amritapuri Regionals**
-
-The International Collegiate Programming Contest
-South Asia Chapter
-
-**November 2025**
-
----
-
-# 🚀 ENTREPRENEURSHIP
-
-### `IIT MADRAS INCUBATOR × FOUNDERX`
-
-**Ideas To Impact**
-
-**TOP 10 SHORTLISTED STARTUPS**
-
-Student Entrepreneurs — January 2025
+*The stack above represents technologies and domains I work with or explore; it is not a claim of equal proficiency in every tool.*
 
 ---
 
-### `STARTUP TN × ENTREPRENEUR'S ORGANISATION`
+## ⚔️ THE LEETCODE WAR ROOM
 
-**Global Student's Entrepreneurship Awards 2025**
+<p align="center">
+  <a href="https://leetcode.com/u/the_invincible_fire/">
+    <img src="https://img.shields.io/badge/PLAYER-THE%20INVINCIBLE%20FIRE-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
+  <a href="https://leetcode.com/u/the_invincible_fire/">
+    <img src="https://img.shields.io/badge/ARENA-LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-**TOP 80 / 300 STARTUPS FROM INDIA**
+<p align="center">
+  <b>Every problem is a battle. Every accepted submission is another lesson.</b>
+</p>
 
-Finalist — November 2025
+### 🏆 Live combat statistics
 
----
+<p align="center">
+  <a href="https://leetcode.com/u/the_invincible_fire/">
+    <img src="https://leetcard.jacoblin.cool/the_invincible_fire?theme=dark&font=Ubuntu&ext=contest" width="90%" alt="Live LeetCode statistics and contest information" />
+  </a>
+</p>
 
-### `EUREKA 2025 × IIT BOMBAY`
+### 🎖️ Trophy cabinet
 
-**NEC FINALIST**
+<p align="center">
+  <a href="https://leetcode.com/u/the_invincible_fire/">
+    <img src="https://img.shields.io/badge/01-DAILY%20CHALLENGES-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/the_invincible_fire/">
+    <img src="https://img.shields.io/badge/02-ALGORITHM%20MASTERY-7B2CBF?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/the_invincible_fire/">
+    <img src="https://img.shields.io/badge/03-DATA%20STRUCTURES-005F73?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/the_invincible_fire/">
+    <img src="https://img.shields.io/badge/04-CONTEST%20ARENA-9D0208?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/the_invincible_fire/">
+    <img src="https://img.shields.io/badge/05-CONSISTENCY-386641?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/the_invincible_fire/">
+    <img src="https://img.shields.io/badge/06-PROBLEM%20SOLVING-003566?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
-**TOP 100 ENTREPRENEURS**
+These six insignias are themed sections of the trophy cabinet, **not claims that six specific LeetCode badges have been earned**. The live profile card and LeetCode account are the source of truth for actual statistics, contest ratings and earned badges.
 
-Also served as:
+### ⚔️ The skill tree
 
-### `CHIEF OPERATING OFFICER`
+`ARRAYS` → `HASHING` → `TWO POINTERS` → `SLIDING WINDOW`
 
-May — December 2025
+`BINARY SEARCH` → `STACKS & QUEUES` → `LINKED LISTS`
 
----
+`TREES` → `GRAPHS` → `BACKTRACKING` → `DYNAMIC PROGRAMMING`
 
-# 🥇 COMPETITION MODE
-
-### `GENESIS 2026 — SRM`
-
-**FIRST PLACE**
-
----
-
-### `PEC × ANNA UNIVERSITY IDEATHON`
-
-**FIRST RUNNER-UP**
-
-Out of **500+ teams**
-
-**15 February 2025**
-
-These entrepreneurship and competition achievements are listed in the resume alongside the ICPC result.
-
----
-
-# 🌐 OPEN SOURCE MODE
-
-## `GSSoC`
-
-### 🥇 GOLD TRAILBLAZER
-
-Roles / contributions:
-
-`Campus Ambassador`
-`Open Source Project Mentor`
-`Open Source Contributor`
-
-**GirlScript Summer of Code**
-
-August — November 2025
-
----
-
-## `COMMUNITY LEADERSHIP`
-
-Presiding over open-source coding communities involving:
-
-```text
-GSSoC
-Outreachy
-GSoC
-Google Summer of Code
-```
-
-and competitive programming communities involving:
-
-```text
-ICPC
-```
-
-**April 2025 — ongoing**
+<p align="center">
+  <a href="https://leetcode.com/u/the_invincible_fire/">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20ACTUAL%20MEDALS-OPEN%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-# 🎙️ SPEAKER / LEADER MODE
+## 🔥 GITHUB COMMAND CENTER
 
-## `TOASTMASTERS INTERNATIONAL`
+### Contribution activity
 
-### VICE PRESIDENT — MEMBERSHIPS
+<p align="center">
+  <a href="https://github.com/Sayantani9">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sayantani9&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub account statistics" />
+  </a>
+  <a href="https://github.com/Sayantani9">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayantani9&theme=tokyonight&hide_border=true" width="49%" alt="GitHub contribution streak" />
+  </a>
+</p>
 
-**Visionary Communication**
+<p align="center">
+  <a href="https://github.com/Sayantani9">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantani9&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most-used languages in public repositories" />
+  </a>
+  <a href="https://github.com/Sayantani9?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE%20THE%20CODE-24292F?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-October 2025 — March 2026
+### Contribution battlefield
 
----
+<p align="center">
+  <a href="https://github.com/Sayantani9">
+    <img src="https://ghchart.rshah.org/7B2CBF/Sayantani9" width="100%" alt="GitHub contribution calendar" />
+  </a>
+</p>
 
-### `HONORARY PATHWAY CELEBRITY`
+<p align="center">
+  <b>One commit at a time. One problem at a time. Keep building.</b>
+</p>
 
-### `TRIPLE CROWN`
-
-### `ROCKSTAR`
-
-**Toastmasters International — Visionary Communication**
-
-April 2026
-
----
-
-### 🥉 BRONZE MEDALIST
-
-**Area A3 Competition — International Speech Contest**
-
-March 2026
-
----
-
-### `PRESIDING GIRLS CHIEF COORDINATOR`
-
-**EDC, PEC**
-
-Also associated with:
-
-**IIT Bombay NEC**
-
-These aren't just "soft skills."
-
-I genuinely like standing in front of people and making complicated things understandable.
+*Live cards depend on third-party services and public GitHub data. Private contributions, service availability and each provider's counting rules can affect what appears.*
 
 ---
 
-# 🧪 RESEARCH MODE
+## 🔬 RESEARCH & INNOVATION
 
-## `RESEARCH IS NOT A SIDE QUEST.`
+My research interests are focused on engineering systems that connect computation with real-world outcomes.
 
-It's one of the main storylines.
+- **AI & Computer Vision:** classification, detection, perception and intelligent automation.
+- **Environmental Technology:** air-quality forecasting, environmental monitoring and sustainability.
+- **Circular Economy:** waste segregation, recovery, recycling and waste-to-value systems.
+- **Robotics & IoT:** sensing, sensor fusion, embedded intelligence and control.
+- **Cybersecurity:** threat reporting, monitoring and security automation.
 
----
+I value the full cycle: defining the problem, studying existing work, developing a hypothesis, building a prototype, evaluating it and documenting the outcome.
 
-## ♻️ SHUDDH
+### Research identity
 
-### **THE SELF-SUSTAINABLE, SELF-CLEANING, SMART, AI-DRIVEN WASTE SEGREGATOR AND WASTE-TO-WEALTH GENERATOR FOR A CLEAN, GREEN ZERO-WASTE FUTURE**
-
-A research and engineering project combining:
-
-`AI`
-`IoT`
-`Waste Segregation`
-`Resource Recovery`
-`Automation`
-
-### `79% ACCURACY`
-
-### `SIH SEMI-FINALIST`
-
-### `PROVISIONALLY PATENTED`
-
-**MVP Stage — February 2025**
-
-Research presentation / publication activity includes the **5th International Conference RECYCLE 2025, IIT Guwahati**.
+- 📝 Published research abstracts
+- 🔬 Research internship experience
+- 🌍 Sustainability and AI research interests
+- 🆔 [ORCID research profile](https://orcid.org/0009-0009-7861-484X)
 
 ---
 
-# 💃 COMPUTATIONAL DANCE RESEARCH
+## 🚀 ENTREPRENEURSHIP & LEADERSHIP
 
-## `SHIROBEDHAS × TEMPORAL FEATURES`
+### Building beyond the code
 
-### **Computational Identification and Classification of Shirobedhas using Temporal Dance Features**
+I explore the intersection of engineering, product thinking and entrepreneurship: identifying meaningful problems, evaluating feasibility, developing prototypes, communicating ideas and iterating toward usable solutions.
 
-International Conference on:
-
-**Indian Knowledge Systems, Tradition, Culture & Technology**
-
-SSN — 2026
-
-Because apparently years of classical dance weren't enough.
-
-I had to make computers study it too.
+- Founder of SHUDDH.
+- Leadership and communication through Toastmasters International.
+- Technical presentations, public speaking and storytelling.
+- Collaborative project development and innovation initiatives.
+- Interest in translating research into practical products.
 
 ---
 
-# 🎥 GENERATIVE DANCE AI
+## 🧠 CURRENT LEARNING FRONT
 
-## `DANCE × GENERATIVE MODELS`
-
-### **Generative Model for Extended Dance Sequence Generation from a Video**
-
-MIND-2026
-
-Samarkhand, Uzbekistan
-
-8th International Conference on:
-
-**Machine Learning, Internet Protocols, Network Systems & Data Science**
+| Track | Focus |
+|---|---|
+| Computer Science | DSA, advanced C++, algorithms, software engineering |
+| Artificial Intelligence | Machine learning, deep learning, computer vision |
+| Intelligent Systems | IoT, robotics, embedded AI, sensor fusion |
+| Research | Experiment design, validation, reproducibility |
+| Product Building | Full-stack development, deployment, iterative design |
 
 ---
 
-# 🧬 RFET / SRAM RESEARCH
+## 🩰 BEYOND THE TERMINAL
 
-### **Numerical Investigation of Fin Dual-Doped RFET Based SRAM Circuit under the Effect of Heavy Ion-Irradiation**
+Engineering and art are not opposites.
 
-International Conference on:
-
-**Multifunctional Materials & Radiation Measurements**
+Bharatanatyam demands precision, discipline and rhythm. Contemporary dance demands improvisation, creativity and adaptation. Both have shaped how I approach complex work: structured practice, experimentation and continuous refinement.
 
 ---
 
-# 🔬 RESEARCH EXPERIENCE
+## 🌐 FIND ME ACROSS THE INTERNET
 
-## `IIT MADRAS`
+<p align="center">
+  <a href="https://github.com/Sayantani9"><img src="https://img.shields.io/badge/GitHub-Sayantani9-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/the_invincible_fire/"><img src="https://img.shields.io/badge/LeetCode-the__invincible__fire-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/g-sayantani-mb-65337230b/"><img src="https://img.shields.io/badge/LinkedIn-Sayantani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://shine-sportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Shine's%20Portfolio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0009-7861-484X"><img src="https://img.shields.io/badge/ORCID-Research- A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+</p>
 
-**Department of Science & Technology / Gopal Krishna Deshpande Centre for Innovation and Entrepreneurship**
+<p align="center">
+  <i>“Build things that matter. Measure what works. Improve what doesn't.”</i>
+</p>
 
-STEM Research
-
-**March — April 2026**
-
----
-
-## `SSN ENGINEERING COLLEGE`
-
-Research Intern under:
-
-**Dr. R. Srinivasan**
-**Dr. A. Karthika**
-
-Research areas:
-
-`Bharatanatyam Anthropology`
-`Image Processing`
-`Shirovedhas`
-
-**November 2025 — ongoing**
-
----
-
-## `JOURNAL OF ENVIRONMENTAL MANAGEMENT`
-
-Served as a:
-
-### **PEER REVIEWER**
-
-Journal Impact Factor listed in resume: **8.4**
-
----
-
-## `IIT GUWAHATI`
-
-**5th International Conference — RECYCLE 2025**
-
-Shortlisted presenter.
-
-Published abstract:
-
-**SHUDDH**
-
----
-
-## `RESEARCH ASSISTANT`
-
-Independently reviewing:
-
-`STEM Journals`
-`Conference Research Papers`
-
-**2020 — 2025**
-
----
-
-# 🧩 PROJECT ARCHIVE
-
-## `01` 🚗 PISTON'S AUTOPEDIA
-
-### `AUTOMOTIVE KNOWLEDGE × DISCOVERY`
-
-An interactive car encyclopedia and vehicle specification platform.
-
-**[⚡ ENTER AUTOPEDIA →](https://piston-s-autopedia.vercel.app/)**
-
----
-
-# `02` ♻️ SMART WASTE SYSTEM / SHUDDH
-
-### `AI × IoT × WASTE INTELLIGENCE`
-
-AI-powered waste segregation and waste-to-wealth system.
-
-**79% reported accuracy**
-
-**SIH Semi-Finalist**
-
-**Provisionally Patented**
-
----
-
-# `03` 🛡️ RAKSHAK
-
-### `CYBER THREAT REPORTING`
-
-Real-time cyber threat reporting
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:242424,100:050505&height=120&section=footer" width="100%" />
+</p>
