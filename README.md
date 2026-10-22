@@ -1,27 +1,54 @@
-# 𝚂𝙰𝚈𝙰𝙽𝚃𝙰𝙽𝙸.exe
-### `THE INVINCIBLE FIRE // SYSTEM ARCHITECT OF POSSIBILITIES`
+
+## `04 // GITHUB.ENGINE`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1600&pause=500&color=C77DFF&center=true&vCenter=true&width=850&height=70&lines=%5B+SYSTEM+BOOTING...+%5D;%5B+IDENTITY%3A+SAYANTANI+%5D;%5B+THINK.+ENGINEER.+DISRUPT.+%5D;%5B+LIMITS+NOT+FOUND.+%5D" alt="System boot sequence"/>
+  <a href="https://github.com/sayantani9">
+    <img src="https://img.shields.io/badge/GITHUB-sayantani9-C77DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=080510" alt="GitHub Profile"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=THE%20INVINCIBLE%20FIRE&fontSize=43&fontColor=F5EFFF&color=0:030008,35:170B2E,70:3C096C,100:9D4EDD&stroke=C77DFF&strokeWidth=1&animation=fadeIn&desc=ENGINEER%20REALITY.%20CHALLENGE%20LIMITS.%20BUILD%20WHAT%27S%20NEXT.&descSize=12&descAlignY=72" width="100%" alt="The Invincible Fire"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sayantani9&show_icons=true&hide_border=true&bg_color=080510&title_color=C77DFF&text_color=EDE4FF&icon_color=9D4EDD&include_all_commits=true" height="175" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayantani9&layout=compact&hide_border=true&bg_color=080510&title_color=C77DFF&text_color=EDE4FF" height="175" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <samp>
-    FOUNDER ✦ ENGINEER ✦ RESEARCHER ✦ BUILDER
-  </samp>
+  <img src="https://streak-stats.demolab.com?user=sayantani9&theme=midnight-purple&hide_border=true&background=080510&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=9D8ABF" width="80%" alt="GitHub Contribution Streak"/>
 </p>
 
 <p align="center">
-  <a href="https://shine-sportfolio.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20ENTER_MY_UNIVERSE-170B27?style=for-the-badge&logo=vercel&logoColor=C77DFF" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/g-sayantani-mb-65337230b/"><img src="https://img.shields.io/badge/CONNECT_TO_NETWORK-170B27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://orcid.org/0009-0009-7861-484X"><img src="https://img.shields.io/badge/RESEARCH_ID-170B27?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayantani9&bg_color=080510&color=EDE4FF&line=C77DFF&point=E0AAFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+</p>
+
+---
+
+## `05 // LEETCODE.PROTOCOL`
+
+<p align="center">
+  <a href="https://leetcode.com/u/the_invincible_fire/">
+    <img src="https://img.shields.io/badge/LEETCODE-the__invincible__fire-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=080510" alt="LeetCode Profile"/>
+  </a>
+  <img src="https://img.shields.io/badge/RANK-494%2C401-C77DFF?style=for-the-badge&labelColor=080510" alt="LeetCode Rank 494401"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-C77DFF?style=flat-square&labelColor=080510"/>
-  <img src="https://img.shields.io/badge/MODE-RESEARCH_FIRST-9D4EDD?style=flat-square&labelColor=080510"/>
-  <img src="https://img.shields.io/badge/DIRECTIVE-ENGINEER
+  <img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" width="150" alt="LeetCode 50-Day Badge"/>
+</p>
+
+<p align="center">
+  <b>50 DAYS. ONE DISCIPLINE. KEEP GOING.</b>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/the_invincible_fire?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="90%" alt="LeetCode Statistics and Activity Heatmap"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/the_invincible_fire/">
+    <img src="https://img.shields.io/badge/OPEN_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=080510" alt="Open LeetCode Profile"/>
+  </a>
+  <img src="https://img.shields.io/badge/DSA-MODE_ENGAGED-C77DFF?style=for-the-badge&labelColor=080510" alt="DSA Mode"/>
+  <img src="https://img.shields.io/badge/DIRECTIVE-NEVER_STOP-E0AAFF?style=for-the-badge&labelColor=080510" alt="Never Stop"/>
+</p>
+
+> **SOLVE. ANALYSE. OPTIMISE. REPEAT.**
