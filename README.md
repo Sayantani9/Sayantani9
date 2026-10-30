@@ -7,6 +7,8 @@
 -->
 
 <h1 align="center">𝚂𝙰𝚈𝙰𝙽𝚃𝙰𝙽𝙸.exe</h1>
+<h3 align="center">THE GEN-Z YZ // SYSTEM ARCHITECT OF POSSIBILITIES</h3>
+<h3 align="center">SANGHAMITRA // SYSTEM ARCHITECT OF POSSIBILITIES</h3>
 <h3 align="center">THE INVINCIBLE FIRE // SYSTEM ARCHITECT OF POSSIBILITIES</h3>
 
 <p align="center">
