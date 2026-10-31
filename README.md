@@ -8,8 +8,8 @@
 
 <h1 align="center">𝚂𝙰𝚈𝙰𝙽𝚃𝙰𝙽𝙸.exe</h1>
 <h3 align="center">THE GEN-Z YZ // SYSTEM ARCHITECT OF POSSIBILITIES</h3>
-<h3 align="center">SANGHAMITRA // SYSTEM ARCHITECT OF POSSIBILITIES</h3>
-<h3 align="center">THE INVINCIBLE FIRE // SYSTEM ARCHITECT OF POSSIBILITIES</h3>
+<h3 align="center">SANGHAMITRA // A Dream</h3>
+<h3 align="center">THE INVINCIBLE FIRE // Fire</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=1600&pause=500&color=C77DFF&center=true&vCenter=true&width=850&height=70&lines=%5B+SYSTEM+BOOTING...+%5D;%5B+IDENTITY%3A+SAYANTANI+%5D;%5B+THINK.+ENGINEER.+DISRUPT.+%5D;%5B+LIMITS+NOT+FOUND.+%5D" alt="System boot sequence"/>
