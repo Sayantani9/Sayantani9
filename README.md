@@ -1,7 +1,6 @@
 
 <!--
   SHINE.exe // THE INVINCIBLE FIRE, Coder Jessa! 
-  SYSTEM ARCHITECT OF POSSIBILITIES
   GitHub: sayantani9
   LeetCode: the_invincible_fire
 -->
