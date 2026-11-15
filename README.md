@@ -1,5 +1,5 @@
 =<!--
-  SHINE.exe // THE INVINCIBLE FIRE, Coder Jessa! 
+  SHINE.exe // FIRE, Coder Jessa! 
   GitHub: sayantani9
   LeetCode: the_invincible_fire
 -->
