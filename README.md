@@ -1,8 +1,3 @@
-=<!--
-  SHINE.exe // FIRE, Coder Jessa! 
-  GitHub: sayantani9
-  LeetCode: the_invincible_fire
--->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=1600&pause=500&color=C77DFF&center=true&vCenter=true&width=850&height=70&lines=%5B+SYSTEM+BOOTING...+%5D;%5B+IDENTITY%3A+SAYANTANI+%5D;%5B+THINK.+ENGINEER.+DISRUPT.+%5D;%5B+LIMITS+NOT+FOUND.+%5D" alt="System boot sequence"/>
 </p>
